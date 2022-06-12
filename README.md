@@ -11,7 +11,4 @@
   - [Typescript](https://www.typescriptlang.org/)
   - [Primsa](https://www.prisma.io/)
   - [Jest](https://jestjs.io/pt-BR/)
-- [Mobile 📱](./mobile):
-  - [React Native](https://reactnative.dev/)
-  - [Expo](https://expo.dev/)
-  - [Typescript](https://www.typescriptlang.org/)
+
