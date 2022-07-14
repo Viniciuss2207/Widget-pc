@@ -12,3 +12,7 @@
   - [Primsa](https://www.prisma.io/)
   - [Jest](https://jestjs.io/pt-BR/)
 
+
+
+https://user-images.githubusercontent.com/97629782/178929783-bded12b8-a9f6-419a-b5f2-580f5d792d1a.mp4
+
